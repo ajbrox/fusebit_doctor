@@ -1,5 +1,5 @@
-# fusebit_doctor
-Arduino fusebit doctor sheld for Atmega 8/48/88/168/328
-Данная плата расширения для Arduino Uno представляет из себя стератель фьюзбитов для микроконтроллеров Atmega 8/48/88/168/328 в случае неправельных настроек и блокировки МК.
-Для работы устройства необходимо подать 12 вольт на Arduino Uno используя стандартный разьём внешнего питания.
-Так же необходимо установить перемычку в соответствии с выбранным для разблокировки МК.
+# Arduino fusebit doctor sheld for Atmega 8/48/88/168/328
+
+This expansion board for Arduino Uno is a fusebit eraser for Atmega 8/48/88/168/328 microcontrollers in case of improper settings and MC blocking.
+For the device to work, you need to supply 12 volts to the Arduino Uno using a standard external power connector.
+It is also necessary to set a jumper in accordance with the MC selected for unlocking.
